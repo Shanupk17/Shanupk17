@@ -7,7 +7,7 @@
 ### 🚀 About Me
 - 💻 Passionate about **Artificial Intelligence, Machine Learning, and Generative AI**  
 - ☁️ Learning **Cloud technologies (AWS, Azure)** to build scalable AI solutions  
-- ✍️ I share knowledge through blogs → [My Medium](https://medium.com/@yourusername)  
+- ✍️ I share knowledge through blogs → [My Medium](https://medium.com/@psantha1712)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/santha-p-272057233/)  
 
 ---
